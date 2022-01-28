@@ -1,4 +1,4 @@
-# Electric-Scooter-GoKart
+# Electric Scooter Go-kart
 
 Here you'll find all of the files related to my electric scooter go-kart project.
 
